@@ -13,4 +13,6 @@ class Person
 end
 
 adele_goldberg = Person.new
-puts 
+alan_kay = Person.new
+puts adele_goldberg.name = "Adele Goldberg"
+puts alan_kay.name = "Alan Kay"
